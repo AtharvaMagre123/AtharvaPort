@@ -40,7 +40,7 @@ function Hero() {
           <br />
           Magre
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>MERN Stack Developer</h2>
         <span>
           
           <a href="https://github.com/AtharvaMagre123" target="_blank">

@@ -51,7 +51,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-        Passionate about creating seamless user journeys through React development.
+        Passionate about creating seamless user journeys through MERN stack development.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
